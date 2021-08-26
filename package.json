@@ -1,0 +1,19 @@
+{
+  "name": "@allinchow/form",
+  "version": "1.0.0",
+  "description": "base form",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allinchow/forms.git"
+  },
+  "author": "allinchow",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/allinchow/forms/issues"
+  },
+  "homepage": "https://github.com/allinchow/forms#readme"
+}
